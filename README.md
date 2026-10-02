@@ -121,11 +121,20 @@ TF-IDF + Linear SVM pipeline trained on 1,000+ natural-language commands. **94% 
 - **Critical Insights into Leading Conversational AI Models** · [arXiv](https://doi.org/10.48550/arXiv.2510.22729)
 
 ---
-
-## 📈 GitHub stats
+## ⚡ Highlights
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=urja14kohli&show_icons=true&hide_border=true&title_color=8C1515&icon_color=8C1515&count_private=true" alt="GitHub stats"/>
+  <img src="https://img.shields.io/badge/Stanford-MS%26E-8C1515?style=for-the-badge" alt="Stanford MS&E"/>
+  <img src="https://img.shields.io/badge/Research-Stanford_Robotics_Center-8C1515?style=for-the-badge" alt="Stanford Robotics Center"/>
+  <img src="https://img.shields.io/badge/Founder-Sonetz-111111?style=for-the-badge" alt="Founder Sonetz"/>
 </p>
 
-<p align="center"><i>Always happy to talk about AI products, research, or something you're building. Reach out! ✨</i></p>
+<table align="center">
+<tr>
+<td align="center" width="160"><h2>4</h2>agentic products shipped to enterprise clients</td>
+<td align="center" width="160"><h2>28</h2>small businesses using PostWeekly</td>
+<td align="center" width="160"><h2>94%</h2>gesture accuracy on the bionic hand</td>
+<td align="center" width="160"><h2>3</h2>publications, incl. Scopus-indexed</td>
+<td align="center" width="160"><h2>11.9K⭐</h2>open-source project I've contributed to</td>
+</tr>
+</table>
