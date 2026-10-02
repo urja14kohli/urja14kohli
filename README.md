@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Urja 👋</h1>
+<h1 align="center">Hi, I'm Urja</h1>
 
 <p align="center">
   <a href="https://urjakohli.com">
@@ -16,17 +16,17 @@
 
 ---
 
-## 🧭 About me
+## About me
 
-- 🎓 **MS&E @ Stanford**, doing ML research at the **Stanford Robotics Center**
-- 🚀 Co-founded **Sonetz**, a B2B LLM automation platform with four agentic products used by enterprise clients
-- 🛠️ Currently building **[PostWeekly](https://postweekly.app)**, which helps small brands figure out *what* to post
-- 🔁 I like the full loop: **understand the user → build → ship → measure → fix**
-- 💬 Ask me about agentic workflows, RAG, model evaluation, or turning a messy idea into a shipped product
+- **MS&E @ Stanford**, doing ML research at the **Stanford Robotics Center**
+- Co-founded **Sonetz**, a B2B LLM automation platform with four agentic products used by enterprise clients
+- Currently building **[PostWeekly](https://postweekly.app)**, which helps small brands figure out *what* to post
+- I like the full loop: **understand the user → build → ship → measure → fix**
+- Ask me about agentic workflows, RAG, model evaluation, or turning a messy idea into a shipped product
 
 ---
 
-## ⚡ Highlights
+## Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stanford-MS%26E-8C1515?style=for-the-badge" alt="Stanford MS&E"/>
@@ -40,13 +40,13 @@
 <td align="center" width="160"><h2>28</h2>small businesses using PostWeekly</td>
 <td align="center" width="160"><h2>94%</h2>gesture accuracy on the bionic hand</td>
 <td align="center" width="160"><h2>6</h2>research papers, incl. Scopus-indexed</td>
-<td align="center" width="160"><h2>11.9K⭐</h2>open-source project I've contributed to</td>
+<td align="center" width="160"><h2>11.9K</h2>GitHub stars on Meshery, which I built an adapter for</td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Featured projects
+## Featured projects
 
 <table>
 <tr>
@@ -87,7 +87,7 @@ Rule-based scoring plus RAG rewrites from a vector DB. Built end-to-end **in 24 
 ### [Meshery Demo Adapter](https://github.com/urja14kohli/meshery-demo-adapter)
 **Cloud-native infrastructure**
 
-Adapter for [Meshery](https://github.com/meshery/meshery) (⭐ 11.9K), the cloud-native manager. Go backend, React frontend.
+Adapter for [Meshery](https://github.com/meshery/meshery) (11.9K stars), the cloud-native manager. Go backend, React frontend.
 
 `Go` `React` `TypeScript`
 
@@ -119,20 +119,20 @@ TF-IDF + Linear SVM pipeline trained on 1,000+ natural-language commands. **94% 
 
 ---
 
-## 📄 Publications
+## Publications
 
-| | Paper | Venue | Status |
-|---|---|---|---|
-| 🦾 | **Development of a Voice-Controlled Tendon-Driven Bionic Hand**<br/><sub>**U. Kohli**, S. Chanda, K. Gandhi, et al.</sub> | Scopus-indexed journal · presented at ACME-2026 · [arXiv](https://doi.org/10.48550/arXiv.2608.25222) | ![Accepted](https://img.shields.io/badge/Accepted-2ea44f?style=flat-square) |
-| 🖨️ | **Systematic Review of Anthropomorphic 3D-Printed Bionic Hands**<br/><sub>**U. Kohli**, S. Chanda, C. Nigam, et al. · 2026</sub> | *Key Engineering Materials* · [Paper](https://www.scientific.net/KEM.1058.127) | ![Published](https://img.shields.io/badge/Published-8C1515?style=flat-square) |
-| 🤖 | **Critical Insights into Leading Conversational AI Models**<br/><sub>**U. Kohli**, A. Singh, A. Sharma · 2025</sub> | [arXiv:2510.22729](https://doi.org/10.48550/arXiv.2510.22729) | ![Under review](https://img.shields.io/badge/Under_review-6e7681?style=flat-square) |
-| 🌾 | **Evaluation of Paddy-Pisciculture Hybrid Farming (PPHF) in the Yamuna Plains of India**<br/><sub>**U. Kohli**, P. Bhati · 2025</sub> | *Paddy and Water Environment* | ![Under review](https://img.shields.io/badge/Under_review-6e7681?style=flat-square) |
-| 🔊 | **Pattern Recognition: An Overview to Text, Image and Sound Processing**<br/><sub>**U. Kohli**, A. Sharma · 2024</sub> | Intl. Conference on Advancing Software and Computing Technologies | ![Accepted](https://img.shields.io/badge/Accepted-2ea44f?style=flat-square) |
-| 🌱 | **Student-Led Sustainability and Social Entrepreneurship in Higher Education**<br/><sub>**U. Kohli**, V. Kaushik · 2025</sub> | Enactus Global Research Network Compendium 2025 | ![Published](https://img.shields.io/badge/Published-8C1515?style=flat-square) |
+| Paper | Venue |
+|---|---|
+| **Development of a Voice-Controlled Tendon-Driven Bionic Hand**<br/><sub>**U. Kohli**, S. Chanda, K. Gandhi, et al.</sub> | Scopus-indexed journal · ACME-2026 · [arXiv](https://doi.org/10.48550/arXiv.2608.25222) |
+| **Systematic Review of Anthropomorphic 3D-Printed Bionic Hands**<br/><sub>**U. Kohli**, S. Chanda, C. Nigam, et al. · 2026</sub> | *Key Engineering Materials* · [Paper](https://www.scientific.net/KEM.1058.127) |
+| **Critical Insights into Leading Conversational AI Models**<br/><sub>**U. Kohli**, A. Singh, A. Sharma · 2025</sub> | [arXiv:2510.22729](https://doi.org/10.48550/arXiv.2510.22729) |
+| **Evaluation of Paddy-Pisciculture Hybrid Farming (PPHF) in the Yamuna Plains of India**<br/><sub>**U. Kohli**, P. Bhati · 2025</sub> | *Paddy and Water Environment* |
+| **Pattern Recognition: An Overview to Text, Image and Sound Processing**<br/><sub>**U. Kohli**, A. Sharma · 2024</sub> | Intl. Conference on Advancing Software and Computing Technologies |
+| **Student-Led Sustainability and Social Entrepreneurship in Higher Education**<br/><sub>**U. Kohli**, V. Kaushik · 2025</sub> | Enactus Global Research Network Compendium 2025 |
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,rust,go,c,react,nextjs,nodejs,tailwind,supabase,postgres,aws,azure,git,figma&perline=8" alt="Tech stack"/>
@@ -140,11 +140,11 @@ TF-IDF + Linear SVM pipeline trained on 1,000+ natural-language commands. **94% 
 
 | | |
 |---|---|
-| 🤖 **AI/ML** | LLMs, RAG, agentic workflows, model evaluation, Bayesian optimization, computer vision, scikit-learn |
-| 📊 **Data & Product** | Product analytics, funnel & cohort analysis, A/B testing, dashboards, monitoring, Tableau |
-| ⚙️ **Engineering** | Python, TypeScript, SQL, Rust, Go, C · Next.js, React, Node.js · Supabase, PostgreSQL, AWS, Azure |
-| 🧑‍💻 **Tools** | Git, Cursor, Claude Code, Figma |
+| **AI/ML** | LLMs, RAG, agentic workflows, model evaluation, Bayesian optimization, computer vision, scikit-learn |
+| **Data & Product** | Product analytics, funnel & cohort analysis, A/B testing, dashboards, monitoring, Tableau |
+| **Engineering** | Python, TypeScript, SQL, Rust, Go, C · Next.js, React, Node.js · Supabase, PostgreSQL, AWS, Azure |
+| **Tools** | Git, Cursor, Claude Code, Figma |
 
 ---
 
-<p align="center"><i>Always happy to talk about AI products, research, or something you're building. Reach out! ✨</i></p>
+<p align="center"><i>Always happy to talk about AI products, research, or something you're building. Reach out.</i></p>
