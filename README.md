@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://urjakohli.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=8C1515&center=true&vCenter=true&width=600&lines=Product+%C2%B7+Applied+AI+%C2%B7+ML+Research;MS%26E+%40+Stanford+University." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=8C1515&center=true&vCenter=true&width=600&lines=Product+%C2%B7+Applied+AI+%C2%B7+ML+Research;MS%26E+%40+Stanford+University" alt="Typing SVG" />
   </a>
 </p>
 
