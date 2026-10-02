@@ -147,4 +147,4 @@ TF-IDF + Linear SVM pipeline trained on 1,000+ natural-language commands. **94% 
 
 ---
 
-<p align="center"><i>Always happy to talk about AI products, research, or something you're building. Reach out.</i></p>
+<p align="center"><i>Always happy to talk about AI products, research, or something you're building. Reach out at <a href="mailto:urja@stanford.edu">urja@stanford.edu</a>.</i></p>
