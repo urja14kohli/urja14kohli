@@ -26,6 +26,26 @@
 
 ---
 
+## ⚡ Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stanford-MS%26E-8C1515?style=for-the-badge" alt="Stanford MS&E"/>
+  <img src="https://img.shields.io/badge/Research-Stanford_Robotics_Center-8C1515?style=for-the-badge" alt="Stanford Robotics Center"/>
+  <img src="https://img.shields.io/badge/Founder-Sonetz-111111?style=for-the-badge" alt="Founder Sonetz"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="160"><h2>4</h2>agentic products shipped to enterprise clients</td>
+<td align="center" width="160"><h2>28</h2>small businesses using PostWeekly</td>
+<td align="center" width="160"><h2>94%</h2>gesture accuracy on the bionic hand</td>
+<td align="center" width="160"><h2>6</h2>research papers, incl. Scopus-indexed</td>
+<td align="center" width="160"><h2>11.9K⭐</h2>open-source project I've contributed to</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Featured projects
 
 <table>
@@ -86,7 +106,7 @@ Lightweight sentiment engine in Rust running on WebAssembly via WasmEdge, with r
 </td>
 <td width="50%" valign="top">
 
-### [Voice-Actuated Bionic Hand](https://www.scientific.net/KEM.1058.127)
+### [Voice-Actuated Bionic Hand](https://doi.org/10.48550/arXiv.2608.25222)
 **ML + embedded systems**
 
 TF-IDF + Linear SVM pipeline trained on 1,000+ natural-language commands. **94% gesture prediction accuracy**.
@@ -96,6 +116,19 @@ TF-IDF + Linear SVM pipeline trained on 1,000+ natural-language commands. **94% 
 </td>
 </tr>
 </table>
+
+---
+
+## 📄 Publications
+
+| | Paper | Venue | Status |
+|---|---|---|---|
+| 🦾 | **Development of a Voice-Controlled Tendon-Driven Bionic Hand**<br/><sub>**U. Kohli**, S. Chanda, K. Gandhi, et al.</sub> | Scopus-indexed journal · presented at ACME-2026 · [arXiv](https://doi.org/10.48550/arXiv.2608.25222) | ![Accepted](https://img.shields.io/badge/Accepted-2ea44f?style=flat-square) |
+| 🖨️ | **Systematic Review of Anthropomorphic 3D-Printed Bionic Hands**<br/><sub>**U. Kohli**, S. Chanda, C. Nigam, et al. · 2026</sub> | *Key Engineering Materials* · [Paper](https://www.scientific.net/KEM.1058.127) | ![Published](https://img.shields.io/badge/Published-8C1515?style=flat-square) |
+| 🤖 | **Critical Insights into Leading Conversational AI Models**<br/><sub>**U. Kohli**, A. Singh, A. Sharma · 2025</sub> | [arXiv:2510.22729](https://doi.org/10.48550/arXiv.2510.22729) | ![Under review](https://img.shields.io/badge/Under_review-6e7681?style=flat-square) |
+| 🌾 | **Evaluation of Paddy-Pisciculture Hybrid Farming (PPHF) in the Yamuna Plains of India**<br/><sub>**U. Kohli**, P. Bhati · 2025</sub> | *Paddy and Water Environment* | ![Under review](https://img.shields.io/badge/Under_review-6e7681?style=flat-square) |
+| 🔊 | **Pattern Recognition: An Overview to Text, Image and Sound Processing**<br/><sub>**U. Kohli**, A. Sharma · 2024</sub> | Intl. Conference on Advancing Software and Computing Technologies | ![Accepted](https://img.shields.io/badge/Accepted-2ea44f?style=flat-square) |
+| 🌱 | **Student-Led Sustainability and Social Entrepreneurship in Higher Education**<br/><sub>**U. Kohli**, V. Kaushik · 2025</sub> | Enactus Global Research Network Compendium 2025 | ![Published](https://img.shields.io/badge/Published-8C1515?style=flat-square) |
 
 ---
 
@@ -114,27 +147,4 @@ TF-IDF + Linear SVM pipeline trained on 1,000+ natural-language commands. **94% 
 
 ---
 
-## 📄 Publications
-
-- **Development of a Voice-Controlled Tendon-Driven Bionic Hand**, Scopus-indexed · [arXiv](https://doi.org/10.48550/arXiv.2608.25222)
-- **Systematic Review of Anthropomorphic 3D-Printed Bionic Hands**, *Key Engineering Materials*
-- **Critical Insights into Leading Conversational AI Models** · [arXiv](https://doi.org/10.48550/arXiv.2510.22729)
-
----
-## ⚡ Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stanford-MS%26E-8C1515?style=for-the-badge" alt="Stanford MS&E"/>
-  <img src="https://img.shields.io/badge/Research-Stanford_Robotics_Center-8C1515?style=for-the-badge" alt="Stanford Robotics Center"/>
-  <img src="https://img.shields.io/badge/Founder-Sonetz-111111?style=for-the-badge" alt="Founder Sonetz"/>
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="160"><h2>4</h2>agentic products shipped to enterprise clients</td>
-<td align="center" width="160"><h2>28</h2>small businesses using PostWeekly</td>
-<td align="center" width="160"><h2>94%</h2>gesture accuracy on the bionic hand</td>
-<td align="center" width="160"><h2>3</h2>publications, incl. Scopus-indexed</td>
-<td align="center" width="160"><h2>11.9K⭐</h2>open-source project I've contributed to</td>
-</tr>
-</table>
+<p align="center"><i>Always happy to talk about AI products, research, or something you're building. Reach out! ✨</i></p>
